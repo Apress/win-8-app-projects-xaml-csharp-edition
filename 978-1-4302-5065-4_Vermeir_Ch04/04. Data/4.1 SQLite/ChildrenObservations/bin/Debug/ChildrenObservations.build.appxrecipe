@@ -1,0 +1,71 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\ChildrenObservations.exe">
+      <PackagePath>ChildrenObservations.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\ChildrenObservations.pdb">
+      <PackagePath>ChildrenObservations.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.14.1\Redist\Debug\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.14.1\Redist\Debug\x86\sqlite3.pdb">
+      <PackagePath>sqlite3.pdb</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\HistoryPage.xaml">
+      <PackagePath>HistoryPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\AddChildPage.xaml">
+      <PackagePath>AddChildPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\ObservationPage.xaml">
+      <PackagePath>ObservationPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Release|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>DA6577280B01BDD4EB870AB541AE2735557C1BC027462B788278E5FE3C8FDCD5</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>6254spikie.ChildrenObservations_1.0.0.1_neutral__qx76en0a4a2sa</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>6254spikie.ChildrenObservations_qx76en0a4a2sa!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>6254spikie.ChildrenObservations</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=EE85651C-874F-411C-B960-7E18C16FDA59</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.1</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-15T19:15:13.357</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\ChildrenObservations.exe">
+      <PackagePath>ChildrenObservations.exe</PackagePath>
+      <Modified>2012-11-15T19:15:12.646</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\ChildrenObservations.pdb">
+      <PackagePath>ChildrenObservations.pdb</PackagePath>
+      <Modified>2012-11-15T19:15:12.617</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\SQLite.WinRT\3.7.14.1\Redist\Retail\x86\sqlite3.dll">
+      <PackagePath>sqlite3.dll</PackagePath>
+      <Modified>2012-11-04T14:12:12.664</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-11T21:52:36.249</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-11T21:51:54.487</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-11T21:52:09.145</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-11T21:52:23.678</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-09T07:29:51.082</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-09T07:20:13.662</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\HistoryPage.xaml">
+      <PackagePath>HistoryPage.xaml</PackagePath>
+      <Modified>2012-11-11T21:46:31.813</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\AddChildPage.xaml">
+      <PackagePath>AddChildPage.xaml</PackagePath>
+      <Modified>2012-11-09T10:33:14.407</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\ObservationPage.xaml">
+      <PackagePath>ObservationPage.xaml</PackagePath>
+      <Modified>2012-11-14T20:31:53.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-15T19:15:08.360</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-11-09T15:27:26.061</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\ChildrenObservations\ChildrenObservations\bin\Release\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-15T19:15:12.900</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\ARM\Microsoft.VCLibs.ARM.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x64\Microsoft.VCLibs.x64.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\">
+      <Name>Microsoft.VCLibs.110.00</Name>
+      <Version>11.0.50727.1</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.110.00, MinVersion = 11.0.50727.1</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows\v8.0\ExtensionSDKs\Microsoft.VCLibs\11.0\.\AppX\Retail\x86\Microsoft.VCLibs.x86.11.00.appx</AppxLocation>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>

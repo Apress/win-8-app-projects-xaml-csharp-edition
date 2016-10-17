@@ -1,0 +1,82 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>26E57089FA39188D15A0C408D98A471DE8D2977A84EC790B2B13251E398D2B5C</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>04a15ca6-bb01-419f-92da-5dde0ead8a03_1.0.0.0_neutral__ztbnkfeqf8y0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>04a15ca6-bb01-419f-92da-5dde0ead8a03_ztbnkfeqf8y0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>04a15ca6-bb01-419f-92da-5dde0ead8a03</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nico</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-15T21:26:19.415</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\TwitterSearch.exe">
+      <PackagePath>TwitterSearch.exe</PackagePath>
+      <Modified>2012-11-15T21:45:29.283</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\TwitterSearch.pdb">
+      <PackagePath>TwitterSearch.pdb</PackagePath>
+      <Modified>2012-11-15T21:45:29.255</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\packages\Newtonsoft.Json.4.5.10\lib\winrt45\Newtonsoft.Json.dll">
+      <PackagePath>Newtonsoft.Json.dll</PackagePath>
+      <Modified>2012-11-15T21:19:41.542</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\packages\Newtonsoft.Json.4.5.10\lib\winrt45\Newtonsoft.Json.xml">
+      <PackagePath>Newtonsoft.Json.xml</PackagePath>
+      <Modified>2012-11-15T21:19:41.552</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-15T19:45:39.068</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-15T19:45:05.647</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-15T21:37:10.181</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\TwitterSearch\TwitterSearch\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-15T19:46:02.045</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

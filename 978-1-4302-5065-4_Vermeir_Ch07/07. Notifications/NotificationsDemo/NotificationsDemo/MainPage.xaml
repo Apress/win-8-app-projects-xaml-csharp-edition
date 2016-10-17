@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="NotificationsDemo.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:NotificationsDemo"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="{StaticResource ApplicationPageBackgroundThemeBrush}">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="121*"/>
+            <RowDefinition Height="263*"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="324*"/>
+            <ColumnDefinition Width="323*"/>
+            <ColumnDefinition Width="719*"/>
+        </Grid.ColumnDefinitions>
+        
+        <Button Content="Show toast" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,149,0,0" Click="ButtonSendNotificationClick"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="text toast" VerticalAlignment="Top" Style="{StaticResource SubheaderTextStyle}" Width="308"/>
+        <TextBox x:Name="TextboxToastText" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,93,0,0" Width="272"/>
+        <Button Content="Show toast with sound" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,194,0,0" Click="ButtonSendNotificationWithSoundClick"/>
+
+        <Button Content="Show toast with image" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="53,149,0,0" Click="ButtonSendNotificationWithImageClick" Grid.Column="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="13,15,0,0" TextWrapping="Wrap" Text="text / image toast" VerticalAlignment="Top" Style="{StaticResource SubheaderTextStyle}" Width="308" Grid.Column="1"/>
+        <TextBox x:Name="TextboxToastTextWithImage" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,93,0,0" Width="272" Grid.Column="1"/>
+        
+        <Button Content="Schedule toast" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="53,149,0,0" Click="ButtonSendScheduledNotificationClick" Grid.Column="2"/>
+        <TextBlock HorizontalAlignment="Left" Margin="13,15,0,0" TextWrapping="Wrap" Text="scheduled toast" VerticalAlignment="Top" Style="{StaticResource SubheaderTextStyle}" Width="308" Grid.Column="2"/>
+        <TextBox x:Name="TextboxTime" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,93,0,0" Width="272" Grid.Column="2"/>
+        
+        <Button Content="set lockscreen" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="60,149,0,0" Click="ButtonSetLockScreenClick" Grid.Row="1"/>
+        <TextBlock HorizontalAlignment="Left" Margin="10,10,0,0" TextWrapping="Wrap" Text="lockscreen badge" VerticalAlignment="Top" Style="{StaticResource SubheaderTextStyle}" Width="308" Grid.Row="1"/>
+        <TextBox x:Name="TextboxLockScreen" HorizontalAlignment="Left" TextWrapping="Wrap" VerticalAlignment="Top" Margin="10,93,0,0" Width="272" Grid.Row="1"/>
+
+    </Grid>
+</Page>

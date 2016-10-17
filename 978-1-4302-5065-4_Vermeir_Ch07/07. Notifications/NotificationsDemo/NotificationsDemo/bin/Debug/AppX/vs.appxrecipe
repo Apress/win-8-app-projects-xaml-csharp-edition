@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>E1CBED9F5316E97AC669517801DDE105B4DDF752083AAB92AC29823046E67FA1</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>725b4572-d7a6-4e78-9248-e3716b0fbe4f_1.0.0.0_neutral__ztbnkfeqf8y0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>725b4572-d7a6-4e78-9248-e3716b0fbe4f_ztbnkfeqf8y0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>725b4572-d7a6-4e78-9248-e3716b0fbe4f</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nico</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-27T14:03:45.090</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\NotificationsDemo.exe">
+      <PackagePath>NotificationsDemo.exe</PackagePath>
+      <Modified>2012-11-27T14:03:59.132</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\NotificationsDemo.pdb">
+      <PackagePath>NotificationsDemo.pdb</PackagePath>
+      <Modified>2012-11-27T14:03:59.113</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-27T13:19:48.481</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\mslogo.png">
+      <PackagePath>Assets\mslogo.png</PackagePath>
+      <Modified>2012-11-25T13:21:32.503</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-25T12:14:19.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-27T13:50:48.912</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\Documents\Visual Studio 2012\Projects\NotificationsDemo\NotificationsDemo\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-27T13:22:25.956</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

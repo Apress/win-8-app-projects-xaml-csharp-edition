@@ -1,0 +1,86 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>47F883F6814423FABE75060F154846178558502F4FF51B1DE9971F7E12F8F574</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>373d1dd0-41d8-462d-a61c-9dc49588d96c_1.0.0.0_neutral__ztbnkfeqf8y0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>373d1dd0-41d8-462d-a61c-9dc49588d96c_ztbnkfeqf8y0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>373d1dd0-41d8-462d-a61c-9dc49588d96c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nico</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-11-03T15:39:57.647</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\TilesApp.exe">
+      <PackagePath>TilesApp.exe</PackagePath>
+      <Modified>2012-11-03T20:59:30.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\TilesApp.pdb">
+      <PackagePath>TilesApp.pdb</PackagePath>
+      <Modified>2012-11-03T20:59:30.752</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\icon.png">
+      <PackagePath>Assets\icon.png</PackagePath>
+      <Modified>2012-11-01T21:55:11.532</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\secondaryIcon.png">
+      <PackagePath>Assets\secondaryIcon.png</PackagePath>
+      <Modified>2012-11-03T15:29:55.510</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\Common\ReadMe.txt">
+      <PackagePath>Common\ReadMe.txt</PackagePath>
+      <Modified>2012-11-01T19:27:54.817</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-11-01T19:26:35.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-26T14:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-11-03T20:59:29.506</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\SecondaryTilePage.xaml">
+      <PackagePath>SecondaryTilePage.xaml</PackagePath>
+      <Modified>2012-11-03T15:38:48.568</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\06. Live tiles\TilesApp\TilesApp\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-11-03T15:39:57.251</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

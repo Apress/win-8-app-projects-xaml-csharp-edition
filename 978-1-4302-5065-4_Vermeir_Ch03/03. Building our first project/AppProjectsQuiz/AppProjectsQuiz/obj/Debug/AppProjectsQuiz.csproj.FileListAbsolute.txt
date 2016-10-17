@@ -1,0 +1,72 @@
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.exe
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.pdb
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\resources.pri
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppxManifest.xml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.build.appxrecipe
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.g.i.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.g.i.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupedItemsPage.g.i.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupedItemsPage.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupDetailPage.g.i.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupDetailPage.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\ItemDetailPage.g.i.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\ItemDetailPage.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\XamlTypeInfo.g.cs
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.xaml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.xaml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupedItemsPage.xaml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\GroupDetailPage.xaml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\ItemDetailPage.xaml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.exe
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.pdb
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\priconfig.xml.intermediate
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\layout.resfiles.intermediate
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\resources.resfiles.intermediate
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\pri.resfiles.intermediate
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\priconfig.xml
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\layout.resfiles
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\resources.resfiles
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\pri.resfiles
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\LanguageQualifiers.txt
+c:\users\nico\documents\visual studio 2012\Projects\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.exe
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.pdb
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\resources.pri
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppxManifest.xml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.build.appxrecipe
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.g.i.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.g.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.g.i.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.g.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\App.xaml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\Common\StandardStyles.xaml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.exe
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.pdb
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\priconfig.xml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\layout.resfiles
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\resources.resfiles
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\pri.resfiles
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\LanguageQualifiers.txt
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\ProjectArchitectures.txt
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\QuizPage.g.i.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\QuizPage.g.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\QuizPage.xaml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\priconfig.xml.intermediate
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\layout.resfiles.intermediate
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\resources.resfiles.intermediate
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\pri.resfiles.intermediate
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\MainPage.g.i.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\MainPage.g.cs
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\MainPage.xaml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.dll
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\GalaSoft.MvvmLight.Win8.dll
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\Microsoft.Practices.ServiceLocation.dll
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\GalaSoft.MvvmLight.Extras.Win8.xml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\GalaSoft.MvvmLight.Win8.xml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\Microsoft.Practices.ServiceLocation.xml
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.csproj.GenerateResource.Cache
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\obj\Debug\AppProjectsQuiz.csprojResolveAssemblyReference.cache
+C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\WinRtBehaviors.dll

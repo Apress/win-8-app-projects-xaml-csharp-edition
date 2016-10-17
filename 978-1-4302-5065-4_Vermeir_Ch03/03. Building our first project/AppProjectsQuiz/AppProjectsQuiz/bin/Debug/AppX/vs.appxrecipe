@@ -1,0 +1,118 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WP0764</Machine>
+    <WindowsUser>Nico</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>07E8CECC259E07BE4D2261C64BFC6147894EF1865FCB95C7DCADFC60FA702454</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>60f883d9-767d-4192-a144-5857c376fff4_1.0.0.0_neutral__ztbnkfeqf8y0t</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>60f883d9-767d-4192-a144-5857c376fff4_ztbnkfeqf8y0t!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>60f883d9-767d-4192-a144-5857c376fff4</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Nico</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-12-02T11:26:05.169</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.exe">
+      <PackagePath>AppProjectsQuiz.exe</PackagePath>
+      <Modified>2012-12-02T11:26:03.162</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\AppProjectsQuiz.pdb">
+      <PackagePath>AppProjectsQuiz.pdb</PackagePath>
+      <Modified>2012-12-02T11:26:03.138</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.dll</PackagePath>
+      <Modified>2012-10-22T17:58:35.258</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.dll">
+      <PackagePath>GalaSoft.MvvmLight.Win8.dll</PackagePath>
+      <Modified>2012-10-22T17:58:35.272</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.dll">
+      <PackagePath>Microsoft.Practices.ServiceLocation.dll</PackagePath>
+      <Modified>2012-10-22T17:58:35.285</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\WinRtBehaviors.1.0.2\lib\winrt45\WinRtBehaviors.dll">
+      <PackagePath>WinRtBehaviors.dll</PackagePath>
+      <Modified>2012-10-22T20:43:22.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Extras.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Extras.Win8.xml</PackagePath>
+      <Modified>2012-10-22T17:58:35.260</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\GalaSoft.MvvmLight.Win8.xml">
+      <PackagePath>GalaSoft.MvvmLight.Win8.xml</PackagePath>
+      <Modified>2012-10-22T17:58:35.275</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\packages\MvvmLight.4.1.23.0\lib\winrt45\Microsoft.Practices.ServiceLocation.xml">
+      <PackagePath>Microsoft.Practices.ServiceLocation.xml</PackagePath>
+      <Modified>2012-10-22T17:58:35.287</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-15T18:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\LightGray.png">
+      <PackagePath>Assets\LightGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\MediumGray.png">
+      <PackagePath>Assets\MediumGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\Assets\DarkGray.png">
+      <PackagePath>Assets\DarkGray.png</PackagePath>
+      <Modified>2011-12-12T20:08:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\MVVMLight.Nuget.Readme.txt">
+      <PackagePath>MVVMLight.Nuget.Readme.txt</PackagePath>
+      <Modified>2012-10-22T17:58:35.583</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-10-22T18:07:31.070</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-10-20T08:34:59.374</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-02T11:25:34.669</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\QuizPage.xaml">
+      <PackagePath>QuizPage.xaml</PackagePath>
+      <Modified>2012-10-21T19:54:59.288</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Nico\SkyDrive\Documenten\Boek\Code\03. Building our first project\AppProjectsQuiz\AppProjectsQuiz\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2012-10-22T20:29:30.830</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
